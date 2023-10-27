@@ -1,0 +1,34 @@
+
+.name{
+    border: 1px solid black;
+    outline: 2px solid  red;
+    outline-offset: 4px;
+    text-align: center;
+}
+.mobile{
+    border: 1px dashed red;
+    outline: 2px solid blue;
+    text-align: center;
+
+outline-offset:4px;
+}
+
+.add{
+    text-align: center;
+    border: 1px dotted blue;
+    outline :2px solid orange;
+    outline-offset :4px;
+}
+.study{
+    text-align: center;
+    border:1px double rosybrown;
+    outline: 2px solid gold;
+    outline-offset: 4px;
+}
+.job{
+    text-align: center;
+    border: 1px solid black;
+    outline: 2px solid green;
+    outline-offset: 4px;
+} 
+
